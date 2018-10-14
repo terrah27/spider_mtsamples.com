@@ -9,6 +9,8 @@ import scrapy
 
 
 class MtsamplesItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+	medical_specialty = scrapy.Field()
+	sample_name = scrapy.Field()
+	description = scrapy.Field()
+	transcription = scrapy.Field()
+	pass
