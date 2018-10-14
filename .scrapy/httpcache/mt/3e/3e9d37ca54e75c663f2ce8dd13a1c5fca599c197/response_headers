@@ -1,0 +1,6 @@
+Server: nginx/1.14.0
+Date: Sun, 14 Oct 2018 01:46:06 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding,Cookie
+X-Pingback: http://mthelpline.com/xmlrpc.php
+Location: http://mthelpline.com/

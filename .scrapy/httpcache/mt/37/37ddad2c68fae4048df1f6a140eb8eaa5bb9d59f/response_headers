@@ -1,0 +1,9 @@
+Server: nginx/1.14.0
+Date: Sun, 14 Oct 2018 02:04:59 GMT
+Content-Type: text/html; charset=UTF-8
+Last-Modified: Sun, 14 Oct 2018 00:42:48 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=3, must-revalidate
+Expires: Sun, 14 Oct 2018 02:05:02 GMT
+Vary: Accept-Encoding,Cookie
+Content-Encoding: gzip

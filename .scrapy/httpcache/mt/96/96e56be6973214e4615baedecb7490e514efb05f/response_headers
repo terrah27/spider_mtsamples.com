@@ -1,0 +1,19 @@
+Server: nginx
+Date: Sun, 14 Oct 2018 02:05:00 GMT
+Content-Type: text/plain
+Last-Modified: Wed, 27 Jun 2018 17:05:24 GMT
+Expires: Sun, 21 Oct 2018 02:05:00 GMT
+Cache-Control: max-age=604800
+Cache-Control: private
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=2592000
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: sameorigin
+Content-Security-Policy: default-src *; connect-src 'self' static.licdn.com media.licdn.com static-exp1.licdn.com static-exp2.licdn.com media-exp1.licdn.com media-exp2.licdn.com https://media-src.linkedin.com/media/ www.linkedin.com s.c.lnkd.licdn.com m.c.lnkd.licdn.com s.c.exp1.licdn.com s.c.exp2.licdn.com m.c.exp1.licdn.com m.c.exp2.licdn.com wss://*.linkedin.com dms.licdn.com; img-src data: blob: *; font-src data: *; style-src 'unsafe-inline' 'self' static-src.linkedin.com *.licdn.com; script-src 'report-sample' 'unsafe-inline' 'unsafe-eval' 'self' platform.linkedin.com spdy.linkedin.com static-src.linkedin.com *.ads.linkedin.com *.licdn.com static.chartbeat.com www.google-analytics.com ssl.google-analytics.com bcvipva02.rightnowtech.com www.bizographics.com sjs.bizographics.com js.bizographics.com d.la4-c1-was.salesforceliveagent.com slideshare.www.linkedin.com; object-src 'none'; media-src blob: *; child-src blob: lnkd-communities: voyager: *; frame-ancestors 'self'; report-uri https://www.linkedin.com/platform-telemetry/csp?f=l
+X-Li-Fabric: prod-lva1
+Set-Cookie: bcookie="v=2&54c23f89-40ae-4949-8b48-daa24188b050"; domain=.linkedin.com; Path=/; Expires=Tue, 13-Oct-2020 13:42:32 GMT
+Set-Cookie: bscookie="v=1&20181014020500611448cd-a9b6-413f-8a3f-430f945de943AQGVivorBQC6JnNH8qPpPnLOB-TtSpM2"; domain=.www.linkedin.com; Path=/; Secure; Expires=Tue, 13-Oct-2020 13:42:32 GMT; HttpOnly
+X-Li-Pop: prod-vmi1
+X-Li-Proto: http/1.1
+X-Li-Uuid: EwTUBlxXXRXAtOF7ESsAAA==

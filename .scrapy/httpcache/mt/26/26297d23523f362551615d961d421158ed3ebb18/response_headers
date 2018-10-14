@@ -1,0 +1,12 @@
+Server: nginx
+Date: Sun, 14 Oct 2018 02:05:30 GMT
+Content-Type: text/plain; charset=UTF-8
+Last-Modified: Tue, 12 Jul 2016 17:10:07 GMT
+Etag: "74-53773572eb9c0"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Expires: Sun, 21 Oct 2018 02:05:30 GMT
+Cache-Control: max-age=604800
+X-Proxy-Cache: HIT
+Strict-Transport-Security: max-age=3600
+Accept-Ranges: bytes

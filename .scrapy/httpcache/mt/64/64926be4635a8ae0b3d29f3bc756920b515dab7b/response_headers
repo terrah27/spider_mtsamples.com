@@ -1,0 +1,11 @@
+Server: nginx/1.14.0
+Date: Sun, 14 Oct 2018 02:05:00 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Pingback: http://www.mtdictionary.com/xmlrpc.php
+Link: <http://www.mtdictionary.com/wp-json/>; rel="https://api.w.org/", <http://www.mtdictionary.com/>; rel=shortlink
+Content-Encoding: gzip
+Vary: Accept-Encoding,Cookie
+Set-Cookie: PHPSESSID=gra5185pvnve5ri5lemd071975; path=/
