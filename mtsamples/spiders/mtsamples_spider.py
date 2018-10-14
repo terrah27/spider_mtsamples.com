@@ -22,11 +22,9 @@ class MTSpider (CrawlSpider):
 			if ('/sample.asp?type' in link):
 				yield scrapy.http.Request(response.urljoin(link), callback=self.parse_detail_page)
 
-
-
 	def parse_detail_page(self, response):
 		medical_specialty = response.css('h1::text').extract()[1]
-		sample_name = response.css('b::text').extract()[3]
+		sample_name = response.css('h1::text').extract()[3]
 		description = response.css('::text').extract()[98]
 		transcription = response.css('::text').extract()[102:150]
 
